@@ -1,14 +1,14 @@
 ## 12 Machine Learning (ML) Algorithms in 12 Weeks: Learning Outcomes
 
 ### Weeks 1–2: Mathematical Foundations for Machine Learning 
-Linear Algebra
+- Linear Algebra
 *	understand vectors, matrices, and matrix multiplication with respect to machine learning. 
 *	explore eigenvalues, eigenvectors
-Statistics
+- Statistics
 *	Learn basic concepts such as mean, variance, standard deviation, and histograms.
 *	Understand the probability distributions and basic data visualization. 
 *	Understand the basics of probability.
-Calculus
+- Calculus
 *	Understand the basics: derivatives, partial derivatives, and gradients. 
 ### Weeks 3-12: Classical ML Algorithms
 Week 3: Linear Regression
